@@ -40,6 +40,8 @@
   - [Cluj-Napoca](#cluj-napoca)
 - [Bulgaria](#bulgaria)
   - [Kazanlak](#kazanlak)
+- [Brazil](#brazil)
+  - [Sao Paulo](#saopaulo)
 - [Japan](#japan)
   - [Tokyo](#tokyo)
 - [Indonesia](#indonesia)
@@ -415,7 +417,13 @@
 
 ### Kazanlak
 
-- [Bazata](https://bazata.bg) - Kazanlak 6100, 10 Georgi Benkovski str., fl. 3
+- [Bazata](https://bazata.bg) - Kazanlak 6100, 10 Georgi Benkovski str., fl. 
+
+## Brazil
+
+### Sao Paulo
+
+- [Cantareira EcoLab](https://escritorio.armazemdaserra.online) - Rov. Arao Sahm, 50 SP 008., Mairipora, SP
 
 ## Japan
 
